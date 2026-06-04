@@ -1,0 +1,6 @@
+{
+  "name": "한국AI콘텐츠연구소",
+  "description": "김경태 박사의 한국AI콘텐츠연구소 공식 브랜드 웹사이트 및 컨설팅 문의 플랫폼",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
